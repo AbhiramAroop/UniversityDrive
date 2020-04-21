@@ -31,6 +31,9 @@ public class Student {
 		return studentID + ' ' + givenName + ' ' + familyName;
 	}
 	
+	public String getStudentID() {
+		return studentID;
+	}
 	
 	
 	
